@@ -20,4 +20,4 @@ client.on('messageCreate', async (message) => {
       // default response
       message.reply('Sorry I don\'t understand what you said...')
 });
-client.login('YOUR_DISCORD_BOT_TOKEN') // replace with your..
+client.login('YOUR_DISCORD_BOT_TOKEN') // replace with your... use secret environment for safety!
